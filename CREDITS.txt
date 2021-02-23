@@ -1,0 +1,14 @@
+Sound Effects from:
+unreal marketplace:
+- Soul: City (ambient, footsteps)
+- public domain (freesounds.org)
+Models & Animations:
+unreal marketplace:
+- Soul: City (environment meshes)
+- Stylized Character Kit: Casual 01
+- FPS Weapon Bundle
+- Animation Starter Pack
+
+Other:
+Photoshop brushes by <a href="https://www.brusheezy.com">Brusheezy</a>
+(for cracks on floor)
