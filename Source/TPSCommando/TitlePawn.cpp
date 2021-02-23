@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+#include "TitlePawn.h"
 #include "Kismet/GameplayStatics.h"
 #include "Blueprint/UserWidget.h"
-#include "TitlePawn.h"
 
 // Sets default values
 ATitlePawn::ATitlePawn()
